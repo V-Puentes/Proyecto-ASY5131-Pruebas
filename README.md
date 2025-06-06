@@ -1,3 +1,3 @@
 # Proyecto-ASY5131-Pruebas
 
-Este repositorio cuenta con el codigo de las pruebas unitarias realizadas al backend, dado que el backend se encuentra desplegado en vercel se creo esta version para testeo local
+Este repositorio cuenta con el codigo de las pruebas unitarias realizadas al proyecto dado que los despliegues se encuentran realizados en Vercel y Railway. Se creó este repositorio modificado para testeo local.
