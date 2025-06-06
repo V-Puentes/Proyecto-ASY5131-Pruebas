@@ -1,0 +1,116 @@
+/* Personalización de colores fríos para Bootstrap */
+:root {
+  --primary: #1a3a8f;
+  --secondary: #4b5d8b;
+  --pastel-blue: #94bff0;
+  --light-blue: #e8f0ff;
+  --cyan: #5bc0de;
+  --blue-gray: #6c757d;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f8fafc;
+}
+
+/* Personalización de Bootstrap */
+.btn-primary {
+  background-color: var(--primary);
+  border-color: var(--primary);
+}
+
+.btn-primary:hover {
+  background-color: #0e2d6e;
+  border-color: #0e2d6e;
+}
+
+.btn-outline-primary {
+  color: var(--primary);
+  border-color: var(--primary);
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--primary);
+  border-color: var(--primary);
+}
+
+.bg-primary {
+  background-color: var(--primary) !important;
+}
+
+.text-primary {
+  color: var(--primary) !important;
+}
+
+/* Estilos para cards */
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Banner principal */
+.banner-hero {
+  background: linear-gradient(135deg, #1a3a8f 0%, #4b5d8b 100%);
+  border-radius: 0 0 20px 20px;
+  margin-bottom: 30px;
+}
+
+/* Categorías destacadas */
+.card.bg-gradient {
+  background-size: 200% 200%;
+  transition: all 0.3s ease;
+}
+
+.card.bg-gradient:hover {
+  background-position: right center;
+}
+
+/* Estilos para la navegación de categorías */
+.btn-group .btn {
+  border-radius: 20px;
+  padding: 8px 16px;
+}
+
+/* Badge personalizado */
+.badge.bg-primary {
+  background-color: var(--primary) !important;
+  text-transform: capitalize;
+}
+
+/* Formato para los precios */
+.fw-bold {
+  color: var(--primary);
+}
+
+.fw-bold-titulohome {
+  color: var(--pastel-blue);
+}
+
+/* Personalización del footer */
+footer {
+  background-color: var(--pastel-blue);
+  color: white;
+}
+
+/* Animación para el loader */
+@keyframes pulse {
+  0% {
+    transform: scale(0.95);
+    opacity: 0.7;
+  }
+  50% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(0.95);
+    opacity: 0.7;
+  }
+}
+

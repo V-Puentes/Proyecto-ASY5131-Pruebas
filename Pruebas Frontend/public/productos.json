@@ -1,0 +1,427 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Sobre de Cartas Pokémon - Scarlet & Violet",
+            "descripcion": "Un sobre de cartas de la última expansión de Pokémon TCG.",
+            "precio": 5990,
+            "foto": "./assets/jpg/1-Sobre de Cartas Pokémon Scarlet y Violet.jpg",
+            "oferta": true,
+            "franquicia": "pokemon"
+        },
+        {
+            "id": 2,
+            "nombre": "Deck de Inicio Yu-Gi-Oh! - Dark Magicians",
+            "descripcion": "Un mazo de inicio basado en el legendario Mago Oscuro.",
+            "precio": 45990,
+            "foto": "./assets/png/2-Mazo Dark Magicians.png",
+            "franquicia": "yugioh"
+        },
+        {
+            "id": 3,
+            "nombre": "Booster Pack Magic: The Gathering - March of the Machine",
+            "descripcion": "Sobre de cartas de la última edición de Magic: The Gathering.",
+            "precio": 26990,
+            "foto": "./assets/jpg/3-Booster pack march of the machine.jpg",
+            "oferta": true,
+            "franquicia": "magic"
+        },
+        {
+            "id": 4,
+            "nombre": "Fundas para Cartas - Ultra Pro Gardevoir",
+            "descripcion": "Pack de 65 fundas protectoras para cartas de tamaño estándar.",
+            "precio": 6990,
+            "foto": "./assets/png/4-fundas para cartas gardevoir.png",
+            "franquicia": "pokemon"
+        },
+        {
+            "id": 5,
+            "nombre": "Caja de Almacenamiento Pokémon",
+            "descripcion": "Caja de almacenamiento con arte de Pokémon para proteger tus cartas.",
+            "precio": 9990,
+            "foto": "./assets/png/5-caja almacenamiento pokemon.png",
+            "oferta": true,
+            "franquicia": "pokemon"
+        },
+        {
+            "id": 6,
+            "nombre": "Tapete de Juego Yu-Gi-Oh! - Kaiba",
+            "descripcion": "Tapete oficial de Yu-Gi-Oh! con diseño de Seto Kaiba y Yugi.",
+            "precio": 12990,
+            "foto": "./assets/png/6-tapete juego kaiba.png",
+            "franquicia": "yugioh"
+        },
+        {
+            "id": 7,
+            "nombre": "Booster Box Pokémon - Brilliant Stars",
+            "descripcion": "Caja con 36 sobres de la expansión Brilliant Stars de Pokémon TCG.",
+            "precio": 150990,
+            "foto": "./assets/png/7-Booster box brilliant stars.png",
+            "oferta": true,
+            "franquicia": "pokemon"
+        },
+        {
+            "id": 8,
+            "nombre": "Estructura de Mazo Yu-Gi-Oh! - Cyber Strike",
+            "descripcion": "Mazo estructurado de Yu-Gi-Oh! con temática de Cyber Dragón.",
+            "precio": 12990,
+            "foto": "./assets/png/8- mazo yugi cyber strike.png",
+            "franquicia": "yugioh"
+        },
+        {
+            "id": 9,
+            "nombre": "Commander Deck Magic: The Gathering - Eldrazi Unbound",
+            "descripcion": "Mazo de Commander con cartas temáticas de Eldrazi.",
+            "precio": 119990,
+            "foto": "./assets/png/9- mazo Eldrazi unbound.png",
+            "oferta": true,
+            "franquicia": "magic"
+        },
+        {
+            "id": 10,
+            "nombre": "Dado Contador de Vida D20 - Magic: The Gathering",
+            "descripcion": "Dado de 20 caras para llevar el conteo de vida en Magic.",
+            "precio": 2390,
+            "foto": "./assets/png/10- dado d20 magic.png",
+            "franquicia": "magic"
+        },
+        {
+            "id": 11,
+            "nombre": "Álbum Coleccionador Pokémon - Pikachu",
+            "descripcion": "Álbum de colección con diseño de Pikachu para almacenar cartas.",
+            "precio": 5990,
+            "foto": "./assets/png/11-album pikachu.png",
+            "oferta": true,
+            "franquicia": "pokemon"
+        },
+        {
+            "id": 12,
+            "nombre": "Lata de Cartas Yu-Gi-Oh! - 2023 Tin of the Pharaoh's Gods",
+            "descripcion": "Lata coleccionable con sobres y cartas exclusivas.",
+            "precio": 25990,
+            "foto": "./assets/png/12- lata cartas faraon.png",
+            "franquicia": "yugioh"
+        },
+        {
+            "id": 13,
+            "nombre": "Pack de Energías Pokémon",
+            "descripcion": "Pack con 45 cartas de energía de Pokémon TCG.",
+            "precio": 4390,
+            "foto": "./assets/png/13-pack energias.png",
+            "franquicia": "pokemon"
+        },
+        {
+            "id": 14,
+            "nombre": "Playmat Magic: The Gathering - Liliana Vess",
+            "descripcion": "Tapete de juego con arte de Liliana Vess para Magic: The Gathering.",
+            "precio": 15990,
+            "foto": "./assets/jpg/14-mat magic liliana vess.jpg",
+            "oferta": true,
+            "franquicia": "magic"
+        },
+        {
+            "id": 15,
+            "nombre": "Cartas Coleccionables de Promoción Yu-Gi-Oh!",
+            "descripcion": "Set especial de cartas promocionales de Yu-Gi-Oh!.",
+            "precio": 19990,
+            "foto": "./assets/png/15- pack promocional yugi.png",
+            "franquicia": "yugioh"
+        },
+        {
+            "id": 16,
+            "nombre": "Pokemon TCG Box Paldea Evolved Elite Trainer Box Scarlet & Violet",
+            "descripcion": "Caja con 8 sobres, fundas y accesorios de la expansión Paldea Evolved.",
+            "precio": 39990,
+            "foto": "./assets/png/16- box paldean evolutions.png",
+            "oferta": true,
+            "franquicia": "pokemon"
+        },
+        {
+            "id": 17,
+            "nombre": "Booster Box Yu-Gi-Oh! - Maze of Memories",
+            "descripcion": "Caja con 24 sobres de la expansión Maze of Memories.",
+            "precio": 99990,
+            "foto": "./assets/png/17-box yugi maze of memories.png",
+            "franquicia": "yugioh"
+        },
+        {
+            "id": 18,
+            "nombre": "Deck de Commander Magic - Planeswalker Teferi",
+            "descripcion": "Mazo preconstruido de Commander centrado en Teferi.",
+            "precio": 17990,
+            "foto": "./assets/png/18-deck magic commander teferi.png",
+            "oferta": true,
+            "franquicia": "magic"
+        },
+        {
+            "id": 19,
+            "nombre": "Set de Dados Yu-Gi-Oh!",
+            "descripcion": "Set de dados con símbolos icónicos de Yu-Gi-Oh!.",
+            "precio": 7990,
+            "foto": "./assets/png/19-dados yugi.png",
+            "franquicia": "yugioh"
+        },
+        {
+            "id": 20,
+            "nombre": "Tapete de Juego Pokémon - Charizard Gigamax",
+            "descripcion": "Tapete oficial con diseño de Charizard Gigamax.",
+            "precio": 17590,
+            "foto": "./assets/png/20-tapete charizard gigamax.png",
+            "oferta": true,
+            "franquicia": "pokemon"
+        },
+        {
+            "id": 21,
+            "nombre": "Fundas para Cartas - Dragon Shield Matte Black",
+            "descripcion": "Pack de 100 fundas premium para cartas.",
+            "precio": 14590,
+            "foto": "./assets/jpg/21-dragon-shield-sleeves-standard-size-matte-100.jpg",
+            "franquicia": "magic"
+        },
+        {
+            "id": 22,
+            "nombre": "Booster Pack Pokémon - Fusion Strike",
+            "descripcion": "Sobre de cartas de la expansión Fusion Strike de Pokémon TCG.",
+            "precio": 9990,
+            "foto": "./assets/jpg/22-booster pack fusion strike.jpg",
+            "oferta": true,
+            "franquicia": "pokemon"
+        },
+        {
+            "id": 23,
+            "nombre": "Estructura de Mazo Yu-Gi-Oh! - Spirit Charmers",
+            "descripcion": "Mazo estructurado de Yu-Gi-Oh! con temática de invocadores de espíritus.",
+            "precio": 10990,
+            "foto": "./assets/png/23-mazo spirit charmers.png",
+            "franquicia": "yugioh"
+        },
+        {
+            "id": 24,
+            "nombre": "Set de Cartas Promocionales Magic: The Gathering - Zendikar Rising",
+            "descripcion": "Set de cartas promocionales de la expansión Zendikar Rising.",
+            "precio": 8990,
+            "foto": "./assets/jpg/24-pack magic zendikar rising.jpg",
+            "franquicia": "magic"
+        },
+        {
+            "id": 25,
+            "nombre": "Caja de Almacenamiento Yu-Gi-Oh! - Legendary Decks",
+            "descripcion": "Caja de almacenamiento con diseño de mazos legendarios de Yu-Gi-Oh!.",
+            "precio": 13990,
+            "foto": "./assets/jpg/25-caja yugi.jpg",
+            "oferta": true,
+            "franquicia": "yugioh"
+        },
+        {
+            "id": 26,
+            "nombre": "Booster Box Magic: The Gathering - Strixhaven",
+            "descripcion": "Caja con 36 sobres de la expansión Strixhaven de Magic: The Gathering.",
+            "precio": 103990,
+            "foto": "./assets/jpg/26-pack magic strixhaven.jpg",
+            "franquicia": "magic"
+        },
+        {
+            "id": 27,
+            "nombre": "Tapete de Juego Pokémon - Eevee Evolutions",
+            "descripcion": "Tapete oficial con diseño de las evoluciones de Eevee.",
+            "precio": 15990,
+            "foto": "./assets/jpg/27-tapete pokemon eveelutions.jpg",
+            "oferta": true,
+            "franquicia": "pokemon"
+        },
+        {
+            "id": 28,
+            "nombre": "Deck de Inicio Yu-Gi-Oh! - Shaddoll Showdown",
+            "descripcion": "Mazo de inicio basado en el arquetipo Shaddoll.",
+            "precio": 7990,
+            "foto": "./assets/jpg/28-deck yugi shaddoll showdown.jpg",
+            "franquicia": "yugioh"
+        },
+        {
+            "id": 29,
+            "nombre": "Booster Pack Magic: The Gathering - Kaldheim",
+            "descripcion": "Sobre de cartas de la expansión Kaldheim de Magic: The Gathering.",
+            "precio": 4990,
+            "foto": "./assets/jpg/29- pack magic kaldheim.jpg",
+            "oferta": true,
+            "franquicia": "magic"
+        },
+        {
+            "id": 30,
+            "nombre": "Álbum Coleccionador Yu-Gi-Oh! - Blue-Eyes White Dragon",
+            "descripcion": "Álbum de colección con diseño de Blue-Eyes White Dragon.",
+            "precio": 14390,
+            "foto": "./assets/jpg/30-album yugi blue eye white dragon.jpg",
+            "franquicia": "yugioh"
+        },
+        {
+            "id": 31,
+            "nombre": "Caja de Entrenador Élite Pokémon - Sword & Shield",
+            "descripcion": "Caja con 8 sobres, fundas y accesorios de la expansión Sword & Shield.",
+            "precio": 49990,
+            "foto": "./assets/jpg/31- box pokemon elite.jpg",
+            "oferta": true,
+            "franquicia": "pokemon"
+        },
+        {
+            "id": 32,
+            "nombre": "Booster Box Yu-Gi-Oh! - Ghosts From the Past",
+            "descripcion": "Caja con 5 sobres de la expansión Ghosts From the Past.",
+            "precio": 14990,
+            "foto": "./assets/jpg/32- box yugi ghots from the past.jpg",
+            "franquicia": "yugioh"
+        },
+        {
+            "id": 33,
+            "nombre": "Deck de Commander Magic - Vampiric Bloodline",
+            "descripcion": "Mazo preconstruido de Commander centrado en vampiros.",
+            "precio": 34390,
+            "foto": "./assets/jpg/33-deck magic vampiric bloodline.jpg",
+            "oferta": true,
+            "franquicia": "magic"
+        },
+        {
+            "id": 34,
+            "nombre": "Set de Dados Pokémon - Poké Ball",
+            "descripcion": "Set de dados con diseño de Poké Ball.",
+            "precio": 7990,
+            "foto": "/assets/jpg/34- set dados pokemon.jpg",
+            "franquicia": "pokemon"
+        },
+        {
+            "id": 35,
+            "nombre": "Tapete de Juego Magic: The Gathering - Chandra Nalaar",
+            "descripcion": "Tapete de juego con arte de Chandra Nalaar para Magic: The Gathering.",
+            "precio": 15990,
+            "foto": "./assets/jpg/35-mat magic chandra nalaar.jpg",
+            "oferta": true,
+            "franquicia": "magic"
+        },
+        {
+            "id": 36,
+            "nombre": "Booster Pack Pokémon - Chilling Reign",
+            "descripcion": "Sobre de cartas de la expansión Chilling Reign de Pokémon TCG.",
+            "precio": 4990,
+            "foto": "./assets/jpg/36-pack pokemon chilling reign.jpg",
+            "franquicia": "pokemon"
+        },
+        {
+            "id": 37,
+            "nombre": "Estructura de Mazo Yu-Gi-Oh! - Rokket Revolt",
+            "descripcion": "Mazo estructurado de Yu-Gi-Oh! con temática de Rokket.",
+            "precio": 11990,
+            "foto": "./assets/png/37- deck yugi rokket revolt.png",
+            "franquicia": "yugioh"
+        },
+        {
+            "id": 38,
+            "nombre": "Pack de Cartas Promocionales Magic: The Gathering - Ikoria",
+            "descripcion": "Caja de sobres de cartas promocionales de la expansión Ikoria.",
+            "precio": 39990,
+            "foto": "./assets/jpg/38-box magic ikoria.jpg",
+            "oferta": true,
+            "franquicia": "magic"
+        },
+        {
+            "id": 39,
+            "nombre": "Lata de Almacenamiento Pokémon - Galar Power",
+            "descripcion": "Lata de almacenamiento con diseño de Pokémon de la región Galar, incluye sobre.",
+            "precio": 13990,
+            "foto": "./assets/jpg/39-tin pokemon galar power.jpg",
+            "franquicia": "pokemon"
+        },
+        {
+            "id": 40,
+            "nombre": "Booster Box Magic: The Gathering - Throne of Eldraine",
+            "descripcion": "Caja con 36 sobres de la expansión Throne of Eldraine de Magic: The Gathering.",
+            "precio": 179990,
+            "foto": "./assets/jpg/40-box magic throne of eldraine.jpg",
+            "oferta": true,
+            "franquicia": "magic"
+        },
+        {
+            "id": 41,
+            "nombre": "Tapete de Juego Yu-Gi-Oh! - Dark Magician Girl",
+            "descripcion": "Tapete oficial con diseño de Dark Magician Girl.",
+            "precio": 15990,
+            "foto": "./assets/png/41-mat yugi magician girl.png",
+            "franquicia": "yugioh"
+        },
+        {
+            "id": 42,
+            "nombre": "Deck de Inicio Yu-Gi-Oh! - Mechanized Madness",
+            "descripcion": "Mazo de inicio basado en el arquetipo de máquinas.",
+            "precio": 7990,
+            "foto": "./assets/png/42-deck yugi mechanized madness.png",
+            "franquicia": "yugioh"
+        },
+        {
+            "id": 43,
+            "nombre": "Booster Pack Magic: The Gathering - Core Set 2021",
+            "descripcion": "Sobre de cartas de la edición Core Set 2021 de Magic: The Gathering.",
+            "precio": 4990,
+            "foto": "./assets/jpg/43-pack magic core set.jpg",
+            "oferta": true,
+            "franquicia": "magic"
+        },
+        {
+            "id": 44,
+            "nombre": "Álbum Coleccionador Pokémon - Mewtwo",
+            "descripcion": "Álbum de colección con diseño de Mewtwo para almacenar cartas.",
+            "precio": 14390,
+            "foto": "./assets/jpg/44-album pokemon mewtwo.jpg",
+            "franquicia": "pokemon"
+        },
+        {
+            "id": 45,
+            "nombre": "Caja de Entrenador Élite Pokémon - Vivid Voltage",
+            "descripcion": "Caja con 8 sobres, fundas y accesorios de la expansión Vivid Voltage.",
+            "precio": 39990,
+            "foto": "./assets/jpg/45- box pokemon elite vivid voltage.jpg",
+            "oferta": true,
+            "franquicia": "pokemon"
+        },
+        {
+            "id": 46,
+            "nombre": "Booster Box Yu-Gi-Oh! - Lightning Overdrive",
+            "descripcion": "Caja con 24 sobres de la expansión Lightning Overdrive.",
+            "precio": 75990,
+            "foto": "./assets/png/46 box yugi lightning overdrive.png",
+            "franquicia": "yugioh"
+        },
+        {
+            "id": 47,
+            "nombre": "Pack 2 Deck de Commander Magic - Kaldheim",
+            "descripcion": "2 Mazos preconstruido de Commander centrado en elfos.",
+            "precio": 35490,
+            "foto": "./assets/jpg/47-pack magic commander kaldheim.jpg",
+            "oferta": true,
+            "franquicia": "magic"
+        },
+        {
+            "id": 48,
+            "nombre": "Set de Dados Magic: The Gathering - Phyrexian",
+            "descripcion": "Set de dados con símbolos de Phyrexia.",
+            "precio": 12990,
+            "foto": "./assets/png/48-dados magic.png",
+            "franquicia": "magic"
+        },
+        {
+            "id": 49,
+            "nombre": "Tapete de Juego Pokémon - Legendary Birds",
+            "descripcion": "Tapete oficial con diseño de los pájaros legendarios.",
+            "precio": 17590,
+            "foto": "./assets/jpg/49-mat pokemon legendary birds.jpg",
+            "oferta": true,
+            "franquicia": "pokemon"
+        },
+        {
+            "id": 50,
+            "nombre": "Fundas para Cartas - Dragon Shield Matte Blue",
+            "descripcion": "Pack de 100 fundas premium para cartas.",
+            "precio": 9590,
+            "foto": "./assets/png/50-fundas magic.png",
+            "franquicia": "magic"
+        }
+    ]
+}
